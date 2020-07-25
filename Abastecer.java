@@ -1,22 +1,17 @@
-public class Abastecer extends Eventos{ // verificar se precisa de uma classe para cada
+public class Abastecer { // verificar se precisa de uma classe para cada
 
-	@Override
-	public void abastecer() {
-		// TODO Auto-generated method stub
-		
-	}
+    public double tempoAbastecer(String tipoCombustivel){
+        if(tipoCombustivel == "Diesel"){
+            return 75.0;
+        }else if(tipoCombustivel == "Gasolina"){
+            return 50.0;
 
-    @Override
-    public void calibrarPneu() {
-        // TODO Auto-generated method stub
-
+        }else{
+            return 40.0;
+        }
     }
 
-    @Override
-    public void trocarOleo() {
-        // TODO Auto-generated method stub
-
-    }
+    
 
 	
     

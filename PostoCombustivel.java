@@ -7,7 +7,6 @@ public class PostoCombustivel{
         /* 
         Toda o programa ira rodar em simulacao 
          */
-    
 
     }
 }

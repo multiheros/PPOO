@@ -1,4 +1,4 @@
-import javax.xml.catalog.CatalogResolver;
+
 
 public class Carro extends Veiculo {
     private String categoria;/* utilitario ou passeio */

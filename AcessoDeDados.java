@@ -6,6 +6,10 @@ import java.io.IOException;
 /*
 Codigo de base para saber mais ou menos oque fazer , mexer depois
 
+Definir formato do TXT para que seja uma leitura mais padronizada
+
+Definir
+
 */
 
 
